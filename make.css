@@ -1,0 +1,77 @@
+#main {
+  background-image: url(https://c4.wallpaperflare.com/wallpaper/517/499/606/batman-chicago-fan-art-gotham-city-wallpaper-preview.jpg);
+  background-repeat: no-repeat;
+  background-size: cover; }
+
+#hed1, #search {
+  transform: translateY(180px); }
+
+#hed1 {
+  text-align: center;
+  font-weight: bold;
+  color: #ff5100; }
+
+#search {
+  background-color: #ccc;
+  border-radius: 22px;
+  width: 350px;
+  margin: 0 auto;
+  padding: 10px; }
+  #search #in {
+    border: none;
+    background: none;
+    outline: none; }
+  #search #sum {
+    border: none;
+    background: none;
+    outline: none;
+    float: right;
+    font-size: x-large;
+    font-weight: bold;
+    line-height: 20px;
+    color: green; }
+
+#button {
+  transform: translate(450px, 250px); }
+  #button button {
+    margin-left: 20px;
+    color: white; }
+  #button .tn1 {
+    background: black; }
+  #button .tn2 {
+    background-color: red; }
+  #button .tn3 {
+    background-color: green;
+    font-size: small; }
+  #button .tn4 {
+    background-color: yellow; }
+  #button button:hover {
+    color: black; }
+
+#hed2 {
+  color: red;
+  margin-bottom: 50px; }
+
+#h4 {
+  margin-bottom: 30px; }
+
+#search2 div {
+  margin: 20px;
+  width: 800px;
+  line-height: 30px; }
+  #search2 div input {
+    float: right;
+    width: 500px;
+    height: 25px; }
+#search2 #dv {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px; }
+  #search2 #dv input {
+    background-color: #1186ea;
+    font-size: small;
+    width: fit-content;
+    padding: 5px; }
+
+/*# sourceMappingURL=make.css.map */
